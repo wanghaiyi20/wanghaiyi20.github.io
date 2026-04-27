@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-<br>Here is **Hanlin Cai** (Lance, 蔡汉霖).<br>
+<br>Here is **Haiyi Wang** (Eason, 王海奕).<br>
 
 <br>I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
 

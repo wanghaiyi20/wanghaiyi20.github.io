@@ -14,7 +14,7 @@ url: https://wanghaiyi20.github.io   # The base hostname & protocol for your sit
 # --------------------------------------------------
 owner:
   name: Haiyi Wang
-  # avatar: /images/lzu_logo.png   # 兰州大学校徽（正方形）
+  avatar: /images/lzu_logo.png   # 兰州大学校徽（正方形）
   bio: Why do we fall? So we can learn to pick ourselves up.
   email: wanghaiyi20@outlook.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -50,18 +50,18 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
   - title: Projects
     url: /projects/
   - title: Interships
     url: /interships/
   - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  #   url: /awards/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
+  - title: Publications
+    url: /publications/
   - title: 中文
     url: /cn/
 
