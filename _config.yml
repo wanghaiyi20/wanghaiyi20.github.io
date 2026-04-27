@@ -7,7 +7,7 @@ description: Here is personal website of Haiyi Wang, Master degree candidate at 
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-# url: https://caihanlin.com
+url: https://wanghaiyi20.github.io   # The base hostname & protocol for your site, e.g. https://example.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
