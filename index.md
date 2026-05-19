@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="{{ '/images/profile.png' | relative_url }}" alt="profile" class="floatpic">
 
 <br>Here is **Haiyi Wang** (Eason, 王海奕).<br>
 
