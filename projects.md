@@ -14,14 +14,16 @@ This project focuses on the design of a high-performance superscalar processor b
 
 <br>
 
-**Main Responsibilities:**
+### Main Responsibilities:
 
 - **CPU core architecture design and RTL implementation**: Responsible for CPU core microarchitecture design and RTL development across key pipeline stages, including instruction fetch, decode, register renaming, issue, execution, and retirement. Completed RTL coding, interface integration, and functional verification for related modules.
 - **Out-of-order issue module design**: Responsible for the design and implementation of out-of-order issue logic, including issue queues, instruction wake-up, issue arbitration, and operand selection. Supported parallel issue of multiple instructions and improved utilization of execution resources.
 - **FPGA synthesis and simulation verification**: Completed logic synthesis, pre-simulation, and post-synthesis simulation of the issue module on an FPGA verification platform. Designed benchmarks for functional debugging and identified and fixed issues related to architecture design, RTL implementation, timing constraints, and module interfaces.
 - **ASIC back-end verification and debugging**: Participated in logic synthesis, functional debugging, static timing analysis, dynamic timing verification, parasitic extraction, and physical layout verification in the ASIC flow. Supported multi-stage verification from RTL to layout implementation and gained practical experience across the complete chip development process from architecture to back-end verification.
 
-<img src="{{ '/file/micor_arch.jpg' | relative_url }}" class="floatpic">
+<p align="center">
+  <img src="/file/micor_arch.jpg" alt="Award" style="max-width: 100%; height: auto;">
+</p>
 
 ---
 
@@ -36,7 +38,7 @@ Targeting low-power, high-reliability, and radiation-tolerant application scenar
 
 <br>
 
-**Main Responsibilities:**
+### Main Responsibilities:
 
 - **Fully asynchronous RISC-V processor architecture design**: Responsible for the architecture design of a fully asynchronous RISC-V processor. Built an asynchronous micropipeline based on the “Sender–Relay–Receiver” structure, using the micropipeline to represent the direction and behavior of data movement inside the processor core, and implemented the RISC-V IMC instruction set.
 - **Register renaming and issue module design**: Responsible for the design of the register renaming and issue modules. Completed RTL implementation, unit testing, and functional verification, including instruction dependency handling, physical register allocation, and instruction issue control.
@@ -54,7 +56,7 @@ This project focuses on developing a hierarchical logic synthesis tool for async
 
 <br>
 
-**Main Contributions:**
+### Main Responsibilities:
 
 - **Dataflow-level component library design**: Defined the functional semantics, port specifications, and graphical representation rules of asynchronous dataflow components. Implemented hardware descriptions and dataflow-level models for basic structural components, providing a reusable component foundation for high-level asynchronous circuit design.
 - **Mapping from dataflow models to mesoscopic asynchronous models**: For quasi-delay-insensitive asynchronous circuits, built a mapping flow centered on C-Element-based asynchronous control units. Mapped dataflow-level components to “Sender–Relay–Receiver” mesoscopic structures and modeled the corresponding data paths, control paths, and acknowledgment mechanisms.
@@ -74,7 +76,7 @@ This project focuses on the design and debugging of a RISC-V matrix computing So
 
 <br>
 
-**Main Responsibilities:**
+### Main Responsibilities:
 
 - **Matrix computing SoC architecture design**: Participated in the architecture design of the matrix computing SoC and designed a multi-level cache architecture to improve data reuse and support high-bandwidth memory access requirements.
 - **Multi-level cache implementation and verification**: Completed RTL implementation, functional debugging, and simulation verification of multi-level cache-related modules, supporting data read/write operations, cache interactions, and continuous data supply during matrix computation.
