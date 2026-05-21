@@ -1,7 +1,7 @@
 ---
-# layout: page
-# permalink: /projects/index.html
-# title: Projects
+layout: page
+permalink: /projects/index.html
+title: Projects_cn
 
 ---
 
@@ -18,12 +18,16 @@
 - **FPGA 平台综合与仿真验证**：在 FPGA 验证平台上完成发射模块的逻辑综合、前仿真和综合后仿真。设计benchmark进行功能调试，定位并修复架构设计、RTL 设计、时序约束和模块接口等存在的深层问题。 
 - **ASIC 后端验证与调试**：在 ASIC 实现流程中参与逻辑综合、功能调试、静态时序分析、动态时序验证、寄生参数提取及物理版图验证等工作，配合完成从 RTL 到版图实现的多阶段验证，具备从架构到后端验证的完整芯片研发实践。
 
+<img src="{{ '/file/micor_arch.jpg' | relative_url }}">
+
 ---
 
 ## 基于 RISC-V 的低功耗 SoC 研发与应用示范
 
 **项目来源:** 甘肃省科技重大项目
 **项目日期:** 2023-10 ~ 2025-05
+
+<img src="{{ '/file/版图.png' | relative_url }}" alt="profile" class="floatpic">
 
 面向弹载计算机、单兵装备等低功耗、高可靠与抗辐射应用场景，参与基于 RISC-V 32 位 IMC 指令集的全异步处理器及低功耗 SoC 研发。项目采用“发送—中继—接收”异步微流水线结构，构建处理器核、SRAM、外设模块与 NoC 节点互连体系，并基于 40nm 工艺完成流片验证。
 
@@ -66,3 +70,5 @@
 - **TPU 矩阵加速子系统集成**：参与 TPU 矩阵加速子系统集成，完成自研 CPU 核、NoC、TPU 和片上存储之间的互联代码编写与系统联调。
 - **外设接口集成与开发板调试**：集成 SPI 等外设接口，完成外设模块与 SoC 主系统之间的连接适配、通信验证和开发板调试。
 - **FPGA 系统级验证**：在 FPGA 平台完成系统级综合、板级测试和问题定位。
+
+<img src="{{ '/file/TPU.jpg' | relative_url }}" alt="profile" class="floatpic">

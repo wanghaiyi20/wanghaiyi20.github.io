@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /interships/index.html
-title: Experience
+title: Interships
 
 ---
 
