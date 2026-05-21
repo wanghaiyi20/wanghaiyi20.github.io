@@ -27,7 +27,7 @@ This project focuses on the design of a high-performance superscalar processor b
 <br>
 ## Low-Power RISC-V SoC Development and Application Demonstration
 
-**Project Source:** Subproject of a Major Science and Technology Project of Gansu Province  
+**Project Source:** Major Science and Technology Project of Gansu Province  
 **Project Date:** 2023-10 ~ 2025-05
 
 <img src="{{ '/file/版图.png' | relative_url }}" alt="profile" class="floatpic">
@@ -61,7 +61,7 @@ This project focuses on developing a hierarchical logic synthesis tool for async
 <br>
 ## RISC-V Matrix Computing SoC / TPU Matrix Acceleration Subsystem Research
 
-**Project Source:** Subproject of a Major Science and Technology Project of Gansu Province  
+**Project Source:** Major Science and Technology Project of Gansu Province  
 **Project Date:** 2025-04 ~ 2026-03
 
 <img src="{{ '/file/TPU.jpg' | relative_url }}" alt="profile" class="floatpic">

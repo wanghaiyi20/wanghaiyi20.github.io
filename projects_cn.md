@@ -60,7 +60,7 @@ title: Projects_cn
 <br>
 ## RISC-V 矩阵计算 SoC / TPU 矩阵加速子系统研究
 
-**项目来源:** 甘肃省科技重大项目下子项目  
+**项目来源:** 甘肃省科技重大项目
 **项目日期:** 2025-04 ~ 2026-03
 
 <img src="{{ '/file/TPU.jpg' | relative_url }}" alt="profile" class="floatpic">
