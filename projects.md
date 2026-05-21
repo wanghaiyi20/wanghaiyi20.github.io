@@ -12,8 +12,6 @@ title: Projects
 
 This project focuses on the design of a high-performance superscalar processor based on the RISC-V instruction set, targeting the demand for high-performance and low-power domestic processor architectures. The project explores superscalar instruction-level parallelism, event-structure-based parallelism analysis, bidirectional operand-fetch strategies, and large-scale out-of-order execution, aiming to improve instruction-level parallelism and overall processor performance under low-power constraints. The processor was taped out and verified using a 28nm process.
 
-<br>
-
 ### Main Responsibilities:
 
 - **CPU core architecture design and RTL implementation**: Responsible for CPU core microarchitecture design and RTL development across key pipeline stages, including instruction fetch, decode, register renaming, issue, execution, and retirement. Completed RTL coding, interface integration, and functional verification for related modules.
@@ -22,11 +20,11 @@ This project focuses on the design of a high-performance superscalar processor b
 - **ASIC back-end verification and debugging**: Participated in logic synthesis, functional debugging, static timing analysis, dynamic timing verification, parasitic extraction, and physical layout verification in the ASIC flow. Supported multi-stage verification from RTL to layout implementation and gained practical experience across the complete chip development process from architecture to back-end verification.
 
 <p align="center">
-  <img src="/file/micor_arch.jpg" alt="Award" style="max-width: 100%; height: auto;">
+  <img src="/file/micro_arch.jpg" alt="micro_arch" style="max-width: 100%; height: auto;">
 </p>
 
 ---
-
+<br>
 ## Low-Power RISC-V SoC Development and Application Demonstration
 
 **Project Source:** Subproject of a Major Science and Technology Project of Gansu Province  
@@ -35,8 +33,6 @@ This project focuses on the design of a high-performance superscalar processor b
 <img src="{{ '/file/版图.png' | relative_url }}" alt="profile" class="floatpic">
 
 Targeting low-power, high-reliability, and radiation-tolerant application scenarios such as missile-borne computers and individual soldier equipment, this project develops a fully asynchronous processor and low-power SoC based on the 32-bit RISC-V IMC instruction set. The project adopts a “Sender–Relay–Receiver” asynchronous micropipeline structure and builds an interconnected system consisting of a processor core, SRAM, peripheral modules, and NoC nodes. The design was taped out and verified using a 40nm process.
-
-<br>
 
 ### Main Responsibilities:
 
@@ -47,14 +43,12 @@ Targeting low-power, high-reliability, and radiation-tolerant application scenar
 - **Synthesis verification and netlist delivery**: Completed DC logic synthesis, Formality equivalence checking, and netlist delivery, and collaborated with the back-end team to complete tape-out verification based on a 40nm process.
 
 ---
-
+<br>
 ## Development of an Asynchronous Circuit Logic Synthesis Tool for Emerging Semiconductor Processes
 
 **Project Date:** 2025-11 ~ Present
 
 This project focuses on developing a hierarchical logic synthesis tool for asynchronous circuit design automation targeting emerging semiconductor processes. The tool supports the transformation from high-level dataflow design to gate-level Verilog netlists. Based on the “Sender–Relay–Receiver” model, the project establishes a conversion flow among dataflow-level models, mesoscopic asynchronous models, and gate-level netlists. By introducing a virtual process library, the tool enables integration with commercial EDA tools and bridges high-level design methodology with emerging semiconductor process technologies.
-
-<br>
 
 ### Main Responsibilities:
 
@@ -64,7 +58,7 @@ This project focuses on developing a hierarchical logic synthesis tool for async
 - **Virtual circuit library and mapping rules for emerging processes**: Built a virtual circuit library covering basic logic gates, constant cells, and common asynchronous control units. Established binding rules from mesoscopic models to gate-level cells, supporting later adaptation to specific process libraries and integration with commercial EDA synthesis flows.
 
 ---
-
+<br>
 ## RISC-V Matrix Computing SoC / TPU Matrix Acceleration Subsystem Research
 
 **Project Source:** Subproject of a Major Science and Technology Project of Gansu Province  
@@ -73,8 +67,6 @@ This project focuses on developing a hierarchical logic synthesis tool for async
 <img src="{{ '/file/TPU.jpg' | relative_url }}" alt="profile" class="floatpic">
 
 This project focuses on the design and debugging of a RISC-V matrix computing SoC and TPU-based matrix acceleration subsystem for AI acceleration and matrix-intensive applications. The system integrates a laboratory-developed CPU core, on-chip NoC, TPU acceleration unit, on-chip memory, SPI, and other peripheral modules. The project implements system interconnection, cache architecture design, and FPGA board-level verification for matrix computing tasks, resulting in a commercially deliverable AI acceleration FPGA development board.
-
-<br>
 
 ### Main Responsibilities:
 
