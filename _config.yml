@@ -54,7 +54,7 @@ links:
     url: /projects/
   - title: Interships
     url: /interships/
-  - title: Awards
+  # - title: Awards
   #   url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
@@ -62,6 +62,8 @@ links:
   #   url: /blogs/
   - title: Publications
     url: /publications/
+  - title: 项目
+    url: /projects_cn/
   - title: 中文
     url: /cn/
 
