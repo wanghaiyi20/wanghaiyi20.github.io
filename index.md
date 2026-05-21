@@ -8,30 +8,20 @@ layout: page
 
 <br>Here is **Haiyi Wang** (Eason, 王海奕).<br>
 
-<br>I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
+<br>I received my B.Eng. degree in Computer Science and Technology from Lanzhou University in 2024. In the same year, I was admitted through the recommendation-based postgraduate admission track and continued my master’s studies in Computer Technology at Lanzhou University, with a focus on integrated circuit design. I am expected to complete my master’s degree in June 2027. Currently, I conduct research in the Asynchronous Systems Group at the School of Information Science and Engineering, Lanzhou University, under the supervision of Prof. Anping He.
 
-<br>My research is supported by the Cambridge Trust Scholarship and China Scholarship Council. Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+<br>Since September 2025, I have been an intern at the Advanced Computing Laboratory of China Electronics Chuntian Research Institute, where I conduct technical research on RISC-V matrix extensions. My work focuses on matrix/vector instruction extensions, their integration with processor microarchitecture, instruction mapping for GEMM and convolution kernels, data movement efficiency, and hardware resource overhead.
 
-<br>Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
+<br>In the future, I hope to pursue long-term research in computer architecture and integrated circuit design. I welcome opportunities from industry, PhD programs, and research collaborations. Please feel free to contact me at wanghaiyi20@outlook.com
 
-<br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
 
 ---
 
 ## Research Interests
 
-- Edge LLMs
-- LLM Networking
-- Attack, Defense, Reslience
+- Computer Architecture
+- High-Performance Processors
+- Asynchronous Circuits and Processors
+- RISC-V matrix extension
+- Matrix Computing and AI Acceleration
 
-
----
-
-## News and Updates
-
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!

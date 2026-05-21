@@ -13,7 +13,6 @@ title: Projects
 This project develops a logic synthesis toolchain for quasi-delay-insensitive asynchronous circuits targeting emerging SiC-oriented processes. The toolchain aims to transform high-level abstract asynchronous designs into gate-level netlists that can support downstream ASIC design, verification, and implementation.
 
 **Main contributions:**
-
 - Designed the overall synthesis architecture from dataflow-level descriptions to mesoscopic structures and gate-level netlists.
 - Defined XML-based intermediate representations across different synthesis layers.
 - Implemented and optimized core code structures for graph transformation, structure checking, and hierarchical synthesis.
@@ -30,7 +29,6 @@ This project develops a logic synthesis toolchain for quasi-delay-insensitive as
 This project is a sub-project under a major provincial science and technology program. It focuses on the design and implementation of a high-performance fully asynchronous superscalar RISC-V processor and SoC. The processor has gone through two major design iterations.
 
 **Main contributions:**
-
 - Participated in CPU architecture design, RTL implementation, ASIC debugging, and technical documentation.
 - Worked on key out-of-order issue related modules and completed corresponding RTL development.
 - Completed FPGA-based synthesis, pre-simulation, and post-synthesis simulation validation.
@@ -47,7 +45,6 @@ This project is a sub-project under a major provincial science and technology pr
 This project studies a RISC-V SoC and TPU-style matrix acceleration subsystem for matrix computing and AI acceleration scenarios.
 
 **Main contributions:**
-
 - Designed and debugged a multi-level cache architecture for matrix computing workloads.
 - Integrated self-developed CPU cores, NoC, TPU modules, SPI interfaces, and related peripherals.
 - Wrote interconnection logic and supported FPGA board-level debugging.
@@ -63,7 +60,6 @@ This project studies a RISC-V SoC and TPU-style matrix acceleration subsystem fo
 This project developed a fully asynchronous many-core CPU interconnection chip based on the BBD protocol.
 
 **Main contributions:**
-
 - Wrote chip test programs and validated post-silicon behavior.
 - Used logic analyzers, oscilloscopes, and other hardware instruments for signal observation and problem localization.
 - Verified interface behavior, functional correctness, and output responses.

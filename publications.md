@@ -7,7 +7,7 @@ title: Publications
 
 ## Patents
 
-1. **Anping He, Haiyi Wang, Jinyu Yang, Jun Ma.**  
+1. Anping He, **Haiyi Wang**, Jinyu Yang, Jun Ma.  
    *An Automated Synthesis System from Asynchronous Pipelines to Asynchronous Circuits.*  
    Chinese Patent **CN120706332B**, authorized on **2025.11.25**.
 
@@ -31,6 +31,7 @@ title: Publications
 1. **Haiyi Wang**, L.H. Li.  
    *Diabetes Prediction Based on Limited Medical Indication.*  
    Proceedings of the 2023 International Conference on Frontiers of Artificial Intelligence and Machine Learning, 2023.
+   https://doi.org/10.1145/3616901.3617018.
 
 <p align="center">
   <img src="/file/论文首页.png" alt="Award" style="max-width: 80%; height: auto;">

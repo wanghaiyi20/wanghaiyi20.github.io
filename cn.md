@@ -6,7 +6,7 @@ title: 王海奕的个人主页
 
 ## 关于我
 
-<img src="https://caihanlin.com/backup/caihalin(2025).PNG" class="floatpic">
+<img src="{{ '/images/profile_scenery.png' | relative_url }}" alt="profile" class="floatpic">
 
 <br>首先感谢您的阅读。我是王海奕，2002年生，河南洛阳人。
 
